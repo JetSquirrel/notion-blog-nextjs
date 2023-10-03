@@ -10,13 +10,13 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Jet Squirrel blog</title>
+        <title>坚果周刊</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.container}>
         <header className={styles.header}>
-          <h1>Jet Squirrel</h1>
+          <h1>坚果周刊</h1>
 
         </header>
 
